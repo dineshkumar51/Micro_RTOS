@@ -29,7 +29,7 @@ void task0(void)
 		//osThreadYield();
 	}
 }
-
+ 
 uint32_t data1;
 
 void task1(void)
